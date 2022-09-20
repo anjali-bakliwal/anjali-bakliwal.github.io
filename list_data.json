@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"berkeley_restaurants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Name": "Tane Vegan Izakaya",
+			"Cuisine": "Japanese",
+			"Favorite Dish": "Sweet Potato Roll",
+			"Street": "Shattuck Ave"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Name": "Imm Thai",
+			"Cuisine": "Thai",
+			"Favorite Dish": "Pad-see-ew",
+			"Street": "University Ave"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Name": "Dumpling Time",
+			"Cuisine": "Asian Fusion",
+			"Favorite Dish": "Vegetable Dumplings",
+			"Street": "Fourth Street"
 		}
 	]
 }
